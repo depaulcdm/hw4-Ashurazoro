@@ -1,6 +1,9 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
-	
+	<groupId>edu.depaul.cdm.se441</groupId>
+	<artifactId>hello-world</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	<name>SE441 Hello World</name>
 	
 	<dependencies>
 		<dependency>
